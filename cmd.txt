@@ -1,0 +1,8 @@
+to run python code using venv
+
+```
+    python -m venv .venv 
+
+    .venv\Scripts\activate  
+
+```
